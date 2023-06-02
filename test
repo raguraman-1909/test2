@@ -16,3 +16,11 @@ day 2
 commit 3
 
 commit 4 is right
+<<<<<<< HEAD
+=======
+
+commit 5 is wrong
+
+commit 6 is right
+
+>>>>>>> 3ba7d84 (commit 6 of day2)
